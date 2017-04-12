@@ -1,10 +1,14 @@
 # x8086_examples
 
 #arrays--->
-// the biggest number in stack 
-// the smallest number in stack 
-// sum of array's number
-// avarage to array's number
+<br>
+the biggest number in stack 
+<br>
+the smallest number in stack 
+<br>
+sum of array's number
+<br>
+avarage to array's number
 ---------------------------
 
 #1to25---->
