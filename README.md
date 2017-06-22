@@ -1,7 +1,7 @@
 # x8086_examples
 
 #arrays--->
-<br>
+<br></br>
 the biggest number in stack 
 <br>
 the smallest number in stack 
@@ -9,8 +9,9 @@ the smallest number in stack
 sum of array's number
 <br>
 avarage to array's number
----------------------------
 
+---------------------------
+<br>
 #1to25---><br>
 we have a loop like cx:25 , and if ax=5,10,15,20 add bx+=1; 
 
