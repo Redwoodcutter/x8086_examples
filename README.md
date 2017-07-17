@@ -8,6 +8,9 @@ the biggest number in stack // the smallest number in stack // sum of array's nu
 we have a loop like cx:25 , and if ax=5,10,15,20 add bx+=1; 
 
 ----------------------
+#String-Kontol--->
+Two string comparison and correct or incorrect print operations were performed on the screen.
+
 
 all of them x8086 assembly language.
 
