@@ -16,7 +16,9 @@ avarage to array's number
 we have a loop like cx:25 , and if ax=5,10,15,20 add bx+=1; 
 
 ----------------------
-#Animation1 <br>
+
+#Animation1 <br>#
+
 
 *               *               *               *
   *           *   *           *   *           *
@@ -28,6 +30,13 @@ you can run step to step and see what happens in code. easy and basic find to ho
        
 
 ------------------------------
+M.Bilal Bark.
+=======
+#String-Kontol--->
+Two string comparison and correct or incorrect print operations were performed on the screen.
+
+
+
 all of them x8086 assembly language.
 
 
