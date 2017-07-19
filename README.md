@@ -30,12 +30,11 @@ you can run step to step and see what happens in code. easy and basic find to ho
        
 
 ------------------------------
-
-=======
-
-#String-Kontol---> //M.bilal Bark
+M.bilal Bark
+#String-Kontol---><br>
 Two string comparison and correct or incorrect print operations were performed on the screen.
 
+------------------------------
 
 
 all of them x8086 assembly language.
