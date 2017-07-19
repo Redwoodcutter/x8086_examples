@@ -17,8 +17,9 @@ we have a loop like cx:25 , and if ax=5,10,15,20 add bx+=1;
 
 ----------------------
 
-#Animation1# <br>
+#Animation1# <br></br>
 
+like a wawe
 
 *               *               *               *
   *           *   *           *   *           *
